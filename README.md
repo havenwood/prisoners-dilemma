@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 prisoners-dilemma
 =================
 
@@ -37,3 +38,6 @@ Game.new.play
 ## Players
 
 For the moment, the two players are RedPlayer and GreenPlayer. Edit red.rb and green.rb to adjust strategy.
+=======
+# Prisoners' Dilemma Simulator
+>>>>>>> initial
