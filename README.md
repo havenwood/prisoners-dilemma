@@ -5,7 +5,7 @@ A Ruby Simulator for the Prisoners' Dilemma
 
 ## Install
 
-`gem install prisoners-dilemma`
+`$ gem install prisoners-dilemma`
 
 ## Usage
 
@@ -16,7 +16,7 @@ Command line:
 or Library:
 
 ```ruby
-require 'prisoners-dilemma`
+require 'prisoners-dilemma'
 
 Game.new.play
 
